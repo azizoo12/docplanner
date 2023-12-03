@@ -23,7 +23,7 @@ nav{
     left: 0;
     display: flex;
     justify-content: space-between;
-    margin-right:250px;
+    margin-right:;
 }
 .logo-docplanner{
     width: 268px;
@@ -32,6 +32,7 @@ nav{
 }
 #navgrp{
     display: flex;
+    margin-right:250px;
 }
 .titles{
     font-family: 'Roboto', sans-serif;
